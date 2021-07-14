@@ -30,11 +30,13 @@
 # Mi Card
 
 
-## What I created
+## About app
 
 Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
 
-## What I learnt
+![App](https://github.com/AnkushSinghGandhi/mi-card-flutter/blob/main/micard.jpeg)
+
+## Learnings from this project
 
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
@@ -44,6 +46,9 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
+
+## :point_down: Support me here!
+<a href="https://www.buymeacoffee.com/ankushsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 #
 
